@@ -1,4 +1,4 @@
-<b>add-parent-class-to-wordpress-menus<b>
+<b>add-parent-class-to-wordpress-menus</b>
 
 When you’re creating a relatively complex wordpress website, which requires more than just one level of navigation (for example – using subcategories or sub-pages), one needs to differentiate between different levels of a menu.
 
